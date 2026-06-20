@@ -1,0 +1,6 @@
+{
+  "name": "AI Chat",
+  "description": "An elegant, real-time AI Chat application powered by Claude API with customizable keys, models, and streaming message support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
